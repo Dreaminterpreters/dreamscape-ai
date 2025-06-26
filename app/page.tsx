@@ -5,7 +5,7 @@ export default function HomePage() {
     <div className="min-h-screen bg-gradient-to-br from-purple-50 via-blue-50 to-indigo-50 p-8">
       <div className="max-w-4xl mx-auto text-center">
         <h1 className="text-5xl font-bold text-gray-800 mb-6">
-          🌙 DreamScape AI
+          🌙 Dream Interpreter 
         </h1>
         <p className="text-xl text-gray-600 mb-8">
           Free AI-Powered Dream Interpretation
